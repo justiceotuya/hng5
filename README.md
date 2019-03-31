@@ -1,1 +1,1 @@
-# hng5
+# hotels.ng 5 intership
